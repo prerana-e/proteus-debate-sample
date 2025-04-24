@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
         through expert coaching, curated resources, and a thriving community.
       </p>
     `;
-    header.insertAdjacentElement('afterend', bio);
+    // header.insertAdjacentElement('afterend', bio);
   
     // 2) Header shrink-on-scroll
     const shrinkThreshold = 50; // px
