@@ -41,7 +41,7 @@
   .hero {
     position: relative;
     height: 60vh;
-    background: var(--primary-red) url('../images/hero-bg.jpg') center/cover no-repeat;
+    background: var(--primary-red) url('../images/michelangeloDavidPic.png') center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
